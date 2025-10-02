@@ -17,6 +17,8 @@ Deployment — Local hosting, Cloud deployment (Coming soon)
 
 RAG Pipeline (Gemma + Ollama + LangChain + Gradio)
 → Retrieval-Augmented Generation system with a simple and interactive frontend.
+AI powered hotel waitress application (OPEANI + Gradio)
+Air BnB predictive modelling integrated with AI chatbot
 
 
 ### 📄 How to Use
